@@ -1,0 +1,13 @@
+Algorithm to determine student's final grade:
+
+step 1 : Start
+
+step  2 : Take 4 integer inputs for the different 4 subject like math, english, physics, chemistry.
+
+step 3 :  Then calculate the grade based upon the average of four marks .
+
+             grade = ( math + english + physics + chemistry ) / 4
+
+step 4 :  if the value of the grade is more than 40, it will print pass otherwise it shows fail.
+
+step 5 : END
